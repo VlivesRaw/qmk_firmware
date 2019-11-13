@@ -1,0 +1,4 @@
+#define TAPPING_TERM 150
+// #define LEADER_TIMEOUT  300
+// #define IGNORE_MOD_TAP_INTERRUPT
+// #define PERMISSIVE_HOLD
